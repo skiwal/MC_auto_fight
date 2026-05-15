@@ -1,0 +1,6 @@
+runs/*
+data_video.mp4
+video_data/
+.DS_Store
+.vscode/
+.idea/

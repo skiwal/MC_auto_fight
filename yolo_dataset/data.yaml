@@ -1,0 +1,8 @@
+path: D:/code/MC_auto_fight/yolo_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: target
